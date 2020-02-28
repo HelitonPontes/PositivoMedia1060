@@ -1,0 +1,6 @@
+C:\Users\Heliton\Source\Repos\PositivoMedia1060\obj\Debug\PositivoMedia1060.csprojAssemblyReference.cache
+C:\Users\Heliton\Source\Repos\PositivoMedia1060\bin\Debug\PositivoMedia1060.exe.config
+C:\Users\Heliton\Source\Repos\PositivoMedia1060\bin\Debug\PositivoMedia1060.exe
+C:\Users\Heliton\Source\Repos\PositivoMedia1060\bin\Debug\PositivoMedia1060.pdb
+C:\Users\Heliton\Source\Repos\PositivoMedia1060\obj\Debug\PositivoMedia1060.exe
+C:\Users\Heliton\Source\Repos\PositivoMedia1060\obj\Debug\PositivoMedia1060.pdb
